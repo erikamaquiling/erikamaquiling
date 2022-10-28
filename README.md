@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erikamaquiling
 - 👀 I’m interested in full-stack projects
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on anything
 
 <!---
